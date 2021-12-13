@@ -1,0 +1,14 @@
+{
+  "name": "js-tdd-template",
+  "version": "0.0.1",
+  "description": "JavaScript starter code for TDD trainings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
