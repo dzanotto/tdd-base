@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddTemplate.Tests", "TddTemplate.Tests\TddTemplate.Tests.csproj", "{691DC370-9DA8-4EA8-8604-C527867C149A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddTemplate", "TddTemplate\TddTemplate.csproj", "{C12157A1-0E1C-48EB-886F-013A41705CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691DC370-9DA8-4EA8-8604-C527867C149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691DC370-9DA8-4EA8-8604-C527867C149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691DC370-9DA8-4EA8-8604-C527867C149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691DC370-9DA8-4EA8-8604-C527867C149A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12157A1-0E1C-48EB-886F-013A41705CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12157A1-0E1C-48EB-886F-013A41705CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12157A1-0E1C-48EB-886F-013A41705CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12157A1-0E1C-48EB-886F-013A41705CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
